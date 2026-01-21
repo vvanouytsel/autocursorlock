@@ -1,6 +1,0 @@
-## Interface: 100207, 110000, 110002
-## Title: AutoCursorLock
-## Notes: Automatically locks the cursor to the screen upon login.
-## Author: Vincent Van Ouytsel
-## Version: 1.0.1
-AutoCursorLock.lua
